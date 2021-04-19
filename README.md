@@ -1,8 +1,8 @@
 # attention-time-forecast
 attention으로 시계열 예측은 할 수 없을까?
 
-관련 tistory
-https://shyu0522.tistory.com/10
+관련 tistory <br />
+darnn : https://shyu0522.tistory.com/10
 
 기본적인 lstm에서 시작해서, Reconstruct Auto Encoder를 넘어, Attention까지 찍어보고, Seq2Seq를 쉬엄쉬엄 보고있다.
 
